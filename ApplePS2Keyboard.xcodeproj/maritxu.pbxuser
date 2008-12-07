@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Debug;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* ApplePS2Keyboard */;
+		codeSenseManager = 56AB6A3C0D1F76D2001A8B6C /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					203,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 220241419;
+			PBXWorkspaceStateSaveDate = 220241419;
+		};
+		perUserProjectItems = {
+			56821BA90D20A09E0088BEE7 /* PBXBookmark */ = 56821BA90D20A09E0088BEE7 /* PBXBookmark */;
+			56821C270D20B23F0088BEE7 /* PBXTextBookmark */ = 56821C270D20B23F0088BEE7 /* PBXTextBookmark */;
+			56821C280D20B23F0088BEE7 /* PBXTextBookmark */ = 56821C280D20B23F0088BEE7 /* PBXTextBookmark */;
+			56C16F410D1FA87A005C7412 /* PBXTextBookmark */ = 56C16F410D1FA87A005C7412 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 56AB6A3B0D1F76D2001A8B6C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32D94FC30562CBF700B6AF17 /* ApplePS2Keyboard */ = {
+		activeExec = 0;
+	};
+	56821BA90D20A09E0088BEE7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6392ECA40B46902C00B4F2E4 /* ApplePS2ToADBMap.h */;
+	};
+	56821C270D20B23F0088BEE7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6392ECA20B46902C00B4F2E4 /* ApplePS2Keyboard.cpp */;
+		name = "ApplePS2Keyboard.cpp: 50";
+		rLen = 5;
+		rLoc = 1834;
+		rType = 0;
+		vrLen = 964;
+		vrLoc = 1326;
+	};
+	56821C280D20B23F0088BEE7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6392ECA40B46902C00B4F2E4 /* ApplePS2ToADBMap.h */;
+		name = "ApplePS2ToADBMap.h: 75";
+		rLen = 0;
+		rLoc = 2051;
+		rType = 0;
+		vrLen = 692;
+		vrLoc = 1665;
+	};
+	56AB6A3B0D1F76D2001A8B6C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	56AB6A3C0D1F76D2001A8B6C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	56C16F410D1FA87A005C7412 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6392ECA20B46902C00B4F2E4 /* ApplePS2Keyboard.cpp */;
+		name = "ApplePS2Keyboard.cpp: 72";
+		rLen = 0;
+		rLoc = 2581;
+		rType = 0;
+		vrLen = 847;
+		vrLoc = 2053;
+	};
+	6392ECA20B46902C00B4F2E4 /* ApplePS2Keyboard.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 11592}}";
+			sepNavSelRange = "{1834, 5}";
+			sepNavVisRange = "{1326, 964}";
+			sepNavWindowFrame = "{{74, 140}, {750, 558}}";
+		};
+	};
+	6392ECA30B46902C00B4F2E4 /* ApplePS2Keyboard.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 1386}}";
+			sepNavSelRange = "{588, 0}";
+			sepNavVisRange = "{2629, 931}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	6392ECA40B46902C00B4F2E4 /* ApplePS2ToADBMap.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 2282}}";
+			sepNavSelRange = "{2051, 0}";
+			sepNavVisRange = "{1665, 692}";
+			sepNavWindowFrame = "{{281, 214}, {750, 558}}";
+		};
+	};
+}
